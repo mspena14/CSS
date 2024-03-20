@@ -1,6 +1,21 @@
 
 h1{
-    text-align: center; 
-    text-transform: capitalize; 
-    font-size: 80px;
+    text-align: center; /* este es para alinear */
+    text-transform: capitalize; /* este es para transformar */
+    font-size: 80px; /* Este es para darle fuente a la letra */
+    color: rgb(226, 223, 21); /* Este le da color a la fuente */
+}
+
+.titulo{
+    color: blue;
+    background-color: aqua;
+}
+
+.frase{
+    color: green;
+    background-color: pink;
+}
+
+.seccion{
+    background-color: blueviolet;
 }

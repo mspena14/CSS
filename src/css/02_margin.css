@@ -1,0 +1,18 @@
+/* *{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+ */
+section{
+    border: 20px solid black;
+    height: 80vh;
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+
+img{
+    border: 2px solid red; 
+}
+
